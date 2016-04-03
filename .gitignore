@@ -1,0 +1,6 @@
+bin/
+build/
+MDVisualize.jar
+*.txt
+.hg
+.hgignore
